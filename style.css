@@ -27,8 +27,8 @@ h1 {
 }
 
 img {
-    height: 150px;
-    width: 150px;
+    height: 9rem;
+    width: 9rem;
     object-fit: cover;
     border-radius: 50%;
 }
